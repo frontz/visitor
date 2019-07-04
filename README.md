@@ -1,1 +1,4 @@
 # visitor
+
+login:
+admin:admin
