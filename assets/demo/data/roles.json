@@ -1,0 +1,9 @@
+{
+    "data":[
+        {"id":"role 1","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "adcounterpart": "AD role 1"},
+        {"id":"role 2","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "adcounterpart": "AD role 2"},
+        {"id":"role 3","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "adcounterpart": "AD role 3"},
+        {"id":"role 4","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "adcounterpart": "AD role 4"},
+        {"id":"role 5","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "adcounterpart": "AD role 5"}
+    ]
+}

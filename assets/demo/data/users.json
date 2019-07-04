@@ -1,0 +1,17 @@
+{
+    "data":[
+        {"name":"Tomasz","surname":"Kowalkski","id":"frontz","mail":"tomasz@domain.com","role":"role 4", "privilege": "privilege 1"},
+        {"name":"Wojciech","surname":"Szczęsny","id":"voj","mail":"voj@domain.com","role":"role 4", "privilege": "privilege 2"},
+        {"name":"Józef","surname":"Bartnicki","id":"joozek","mail":"joozek@domain.com","role":"role 3", "privilege": "privilege 3"},
+        {"name":"Adrian","surname":"Nowak","id":"add","mail":"add@domain.com","role":"role 1", "privilege": "privilege 4"},
+        {"name":"Monika","surname":"Branicka","id":"monka","mail":"monyka@domain.com","role":"role 3", "privilege": "privilege 5"},
+        {"name":"Czesław","surname":"Nieniemen","id":"czesiu","mail":"czesiu@domain.com","role":"role 4", "privilege": "privilege 6"},
+        {"name":"Bogumiła","surname":"Trzusta","id":"bogusia","mail":"bogusia@domain.com","role":"role 1", "privilege": "privilege 7"},
+        {"name":"Magda","surname":"Mokrzycka","id":"kris","mail":"magda@domain.com","role":"role 3", "privilege": "privilege 8"},
+        {"name":"Zygmunt","surname":"Niekonieczny","id":"ziguzig","mail":"ziguzig@domain.com","role":"role 2", "privilege": "privilege 9"},
+        {"name":"Henryk","surname":"Figurski","id":"vojtek","mail":"vojtek@domain.com","role":"role 3", "privilege": "privilege 10"},
+        {"name":"Celina","surname":"Cerekwicka","id":"celine","mail":"celine@domain.com","role":"role 1", "privilege": "privilege 11"},
+        {"name":"Bożena","surname":"Niezbędna","id":"bozena","mail":"bozenka@domain.com","role":"role 3", "privilege": "privilege 12"},
+        {"name":"Jacek","surname":"Kawalerowicz","id":"jatzek","mail":"jatzek@domain.com","role":"role 2", "privilege": "privilege 13"}
+    ]
+}
